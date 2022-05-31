@@ -85,14 +85,14 @@ body{
 }
 
 
-h2{
+h1{
     font-size: 1.3rem;
     font-weight: 600;
     color: var(--White);
     padding: 5px 10px;
 }
 
-h2:hover{
+h1:hover{
     color: var(--Cyan);
     cursor: pointer;
 }
